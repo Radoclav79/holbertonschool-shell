@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod useradd julien+753 hello 
+useradd julien chmod 753 hello 
